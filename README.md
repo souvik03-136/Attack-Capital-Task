@@ -135,4 +135,3 @@ npm run scheduler
 5. **Prisma ORM**: Type-safe database access with auto-generated types
 6. **Next.js API Routes**: Serverless functions for webhooks and APIs
 
-## Project Structure
